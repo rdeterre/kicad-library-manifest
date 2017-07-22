@@ -2,7 +2,7 @@
 <manifest>
   <default revision="master" sync-j="4"/>
 
-  <remote fetch="git://git@github.com/" name="github"/>
+  <remote fetch="ssh://git@github.com/" name="github"/>
 
   <project remote="github" name="KiCad/Power_Integrations.pretty"
            path="Power_Integrations.pretty" />
