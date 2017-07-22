@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default revision="master" sync-j="4"/>
+
+  <remote fetch="git://git@github.com/" name="github"/>
+
+  <project remote="gitlab" name="KiCad/Power_Integrations.pretty"
+           path="Power_Integrations.pretty" />
+</manifest>
