@@ -145,8 +145,6 @@
            path="Oscillators.pretty" />
   <project remote="github" name="KiCad/Crystals.pretty"
            path="Crystals.pretty" />
-  <project remote="github" name="KiCad/Crystal footprints"
-           path="Crystal footprints" />
   <project remote="github" name="KiCad/Wire_Pads.pretty"
            path="Wire_Pads.pretty" />
   <project remote="github" name="KiCad/Wire_Connections_Bridges.pretty"
