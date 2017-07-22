@@ -4,6 +4,6 @@
 
   <remote fetch="git://git@github.com/" name="github"/>
 
-  <project remote="gitlab" name="KiCad/Power_Integrations.pretty"
+  <project remote="github" name="KiCad/Power_Integrations.pretty"
            path="Power_Integrations.pretty" />
 </manifest>
