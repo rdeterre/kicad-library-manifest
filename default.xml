@@ -4,6 +4,211 @@
 
   <remote fetch="ssh://git@github.com/" name="github"/>
 
+  <project remote="github" name="KiCad/kicad-library"
+           path="kicad-library" />
+
+  <project remote="github" name="KiCad/kicad-library-utils"
+           path="kicad-library-utils" />
+
+  <!-- All .pretty repos -->
+  <project remote="github" name="KiCad/Capacitors_THT.pretty"
+           path="Capacitors_THT.pretty" />
+  <project remote="github" name="KiCad/Housings_QFP.pretty"
+           path="Housings_QFP.pretty" />
+  <project remote="github" name="KiCad/Housings_SIP.pretty"
+           path="Housings_SIP.pretty" />
+  <project remote="github" name="KiCad/Housings_SOIC.pretty"
+           path="Housings_SOIC.pretty" />
+  <project remote="github" name="KiCad/Resistors_THT.pretty"
+           path="Resistors_THT.pretty" />
+  <project remote="github" name="KiCad/Housings_DFN_QFN.pretty"
+           path="Housings_DFN_QFN.pretty" />
+  <project remote="github" name="KiCad/Connectors_HDMI.pretty"
+           path="Connectors_HDMI.pretty" />
+  <project remote="github" name="KiCad/Housings_BGA.pretty"
+           path="Housings_BGA.pretty" />
+  <project remote="github" name="KiCad/Connectors_Molex.pretty"
+           path="Connectors_Molex.pretty" />
+  <project remote="github" name="KiCad/Connectors_Terminal_Blocks.pretty"
+           path="Connectors_Terminal_Blocks.pretty" />
+  <project remote="github" name="KiCad/Connectors_USB.pretty"
+           path="Connectors_USB.pretty" />
+  <project remote="github" name="KiCad/Connectors_JAE.pretty"
+           path="Connectors_JAE.pretty" />
+  <project remote="github" name="KiCad/Inductors_SMD.pretty"
+           path="Inductors_SMD.pretty" />
+  <project remote="github" name="KiCad/Housings_LGA.pretty"
+           path="Housings_LGA.pretty" />
+  <project remote="github" name="KiCad/Resistors_SMD.pretty"
+           path="Resistors_SMD.pretty" />
+  <project remote="github" name="KiCad/TO_SOT_Packages_SMD.pretty"
+           path="TO_SOT_Packages_SMD.pretty" />
+  <project remote="github" name="KiCad/Capacitors_SMD.pretty"
+           path="Capacitors_SMD.pretty" />
+  <project remote="github" name="KiCad/EuroBoard_Outline.pretty"
+           path="EuroBoard_Outline.pretty" />
+  <project remote="github" name="KiCad/RF_Modules.pretty"
+           path="RF_Modules.pretty" />
+  <project remote="github" name="KiCad/Connectors.pretty"
+           path="Connectors.pretty" />
+  <project remote="github" name="KiCad/Housings_SSOP.pretty"
+           path="Housings_SSOP.pretty" />
+  <project remote="github" name="KiCad/Relays_THT.pretty"
+           path="Relays_THT.pretty" />
+  <project remote="github" name="KiCad/Displays.pretty"
+           path="Displays.pretty" />
+  <project remote="github" name="KiCad/Modules.pretty"
+           path="Modules.pretty" />
+  <project remote="github" name="KiCad/Battery_Holders.pretty"
+           path="Battery_Holders.pretty" />
+  <project remote="github" name="KiCad/Displays_7-Segment.pretty"
+           path="Displays_7-Segment.pretty" />
+  <project remote="github" name="KiCad/Connectors_Hirose.pretty"
+           path="Connectors_Hirose.pretty" />
+  <project remote="github" name="KiCad/Pin_Headers.pretty"
+           path="Pin_Headers.pretty" />
+  <project remote="github" name="KiCad/LEDs.pretty"
+           path="LEDs.pretty" />
+  <project remote="github" name="KiCad/Buttons_Switches_SMD.pretty"
+           path="Buttons_Switches_SMD.pretty" />
+  <project remote="github" name="KiCad/Connectors_Harwin.pretty"
+           path="Connectors_Harwin.pretty" />
+  <project remote="github" name="KiCad/TO_SOT_Packages_THT.pretty"
+           path="TO_SOT_Packages_THT.pretty" />
+  <project remote="github" name="KiCad/Housings_SON.pretty"
+           path="Housings_SON.pretty" />
+  <project remote="github" name="KiCad/Connectors_JST.pretty"
+           path="Connectors_JST.pretty" />
+  <project remote="github" name="KiCad/Inductors_THT.pretty"
+           path="Inductors_THT.pretty" />
+  <project remote="github" name="KiCad/Transformers_SMD.pretty"
+           path="Transformers_SMD.pretty" />
+  <project remote="github" name="KiCad/Transformers_THT.pretty"
+           path="Transformers_THT.pretty" />
+  <project remote="github" name="KiCad/Connectors_Multicomp.pretty"
+           path="Connectors_Multicomp.pretty" />
+  <project remote="github" name="KiCad/Opto-Devices.pretty"
+           path="Opto-Devices.pretty" />
+  <project remote="github" name="KiCad/Diodes_THT.pretty"
+           path="Diodes_THT.pretty" />
+  <project remote="github" name="KiCad/Potentiometers.pretty"
+           path="Potentiometers.pretty" />
+  <project remote="github" name="KiCad/Fuse_Holders_and_Fuses.pretty"
+           path="Fuse_Holders_and_Fuses.pretty" />
+  <project remote="github" name="KiCad/Connectors_Phoenix.pretty"
+           path="Connectors_Phoenix.pretty" />
+  <project remote="github" name="KiCad/RF_Antennas.pretty"
+           path="RF_Antennas.pretty" />
+  <project remote="github" name="KiCad/Buzzers_Beepers.pretty"
+           path="Buzzers_Beepers.pretty" />
+  <project remote="github" name="KiCad/Buttons_Switches_THT.pretty"
+           path="Buttons_Switches_THT.pretty" />
+  <project remote="github" name="KiCad/Housings_DIP.pretty"
+           path="Housings_DIP.pretty" />
+  <project remote="github" name="KiCad/Diodes_SMD.pretty"
+           path="Diodes_SMD.pretty" />
+  <project remote="github" name="KiCad/Connectors_Samtec.pretty"
+           path="Connectors_Samtec.pretty" />
+  <project remote="github" name="KiCad/Housings_CSP.pretty"
+           path="Housings_CSP.pretty" />
+  <project remote="github" name="KiCad/TerminalBlocks_Phoenix.pretty"
+           path="TerminalBlocks_Phoenix.pretty" />
+  <project remote="github" name="KiCad/TerminalBlocks_WAGO.pretty"
+           path="TerminalBlocks_WAGO.pretty" />
+  <project remote="github" name="KiCad/Capacitors_Tantalum_SMD.pretty"
+           path="Capacitors_Tantalum_SMD.pretty" />
+  <project remote="github" name="KiCad/Converters_DCDC_ACDC.pretty"
+           path="Converters_DCDC_ACDC.pretty" />
+  <project remote="github" name="KiCad/Connectors_TE-Connectivity.pretty"
+           path="Connectors_TE-Connectivity.pretty" />
+  <project remote="github" name="KiCad/Connectors_Amphenol.pretty"
+           path="Connectors_Amphenol.pretty" />
+  <project remote="github" name="KiCad/IR-DirectFETs.pretty"
+           path="IR-DirectFETs.pretty" />
+  <project remote="github" name="KiCad/Heatsinks.pretty"
+           path="Heatsinks.pretty" />
+  <project remote="github" name="KiCad/Housings_LCC.pretty"
+           path="Housings_LCC.pretty" />
+  <project remote="github" name="KiCad/Relays_SMD.pretty"
+           path="Relays_SMD.pretty" />
+  <project remote="github" name="KiCad/SMD_Packages.pretty"
+           path="SMD_Packages.pretty" />
+  <project remote="github" name="KiCad/Socket_Strips.pretty"
+           path="Socket_Strips.pretty" />
+  <project remote="github" name="KiCad/Measurement_Points.pretty"
+           path="Measurement_Points.pretty" />
+  <project remote="github" name="KiCad/Hall-Effect_Transducers_LEM.pretty"
+           path="Hall-Effect_Transducers_LEM.pretty" />
+  <project remote="github" name="KiCad/Valves.pretty"
+           path="Valves.pretty" />
+  <project remote="github" name="KiCad/Oscillators.pretty"
+           path="Oscillators.pretty" />
+  <project remote="github" name="KiCad/Crystals.pretty"
+           path="Crystals.pretty" />
+  <project remote="github" name="KiCad/Crystal footprints"
+           path="Crystal footprints" />
+  <project remote="github" name="KiCad/Wire_Pads.pretty"
+           path="Wire_Pads.pretty" />
+  <project remote="github" name="KiCad/Wire_Connections_Bridges.pretty"
+           path="Wire_Connections_Bridges.pretty" />
+  <project remote="github" name="KiCad/Varistors.pretty"
+           path="Varistors.pretty" />
+  <project remote="github" name="KiCad/Transistors_OldSowjetAera.pretty"
+           path="Transistors_OldSowjetAera.pretty" />
+  <project remote="github" name="KiCad/Symbols.pretty"
+           path="Symbols.pretty" />
+  <project remote="github" name="KiCad/Sockets.pretty"
+           path="Sockets.pretty" />
+  <project remote="github" name="KiCad/Shielding_Cabinets.pretty"
+           path="Shielding_Cabinets.pretty" />
+  <project remote="github" name="KiCad/Resistors_Universal.pretty"
+           path="Resistors_Universal.pretty" />
   <project remote="github" name="KiCad/Power_Integrations.pretty"
            path="Power_Integrations.pretty" />
+  <project remote="github" name="KiCad/PFF_PSF_PSS_Leadforms.pretty"
+           path="PFF_PSF_PSS_Leadforms.pretty" />
+  <project remote="github" name="KiCad/Mounting_Holes.pretty"
+           path="Mounting_Holes.pretty" />
+  <project remote="github" name="KiCad/Microwave.pretty"
+           path="Microwave.pretty" />
+  <project remote="github" name="KiCad/Mechanical_Sockets.pretty"
+           path="Mechanical_Sockets.pretty" />
+  <project remote="github" name="KiCad/Measurement_Scales.pretty"
+           path="Measurement_Scales.pretty" />
+  <project remote="github" name="KiCad/Housings_PGA.pretty"
+           path="Housings_PGA.pretty" />
+  <project remote="github" name="KiCad/Fiducials.pretty"
+           path="Fiducials.pretty" />
+  <project remote="github" name="KiCad/Enclosures.pretty"
+           path="Enclosures.pretty" />
+  <project remote="github" name="KiCad/Connectors_WAGO.pretty"
+           path="Connectors_WAGO.pretty" />
+  <project remote="github" name="KiCad/Connectors_Mini-Universal.pretty"
+           path="Connectors_Mini-Universal.pretty" />
+  <project remote="github" name="KiCad/Transformers_SMPS_ThroughHole.pretty"
+           path="Transformers_SMPS_ThroughHole.pretty" />
+  <project remote="github" name="KiCad/Transformers_CHK.pretty"
+           path="Transformers_CHK.pretty" />
+  <project remote="github" name="KiCad/Sockets_MOLEX_KK-System.pretty"
+           path="Sockets_MOLEX_KK-System.pretty" />
+  <project remote="github" name="KiCad/Oddities.pretty"
+           path="Oddities.pretty" />
+  <project remote="github" name="KiCad/NF-Transformers_ETAL.pretty"
+           path="NF-Transformers_ETAL.pretty" />
+  <project remote="github" name="KiCad/Inductors_NEOSID.pretty"
+           path="Inductors_NEOSID.pretty" />
+  <project remote="github" name="KiCad/Filters_HF_Coils_NEOSID.pretty"
+           path="Filters_HF_Coils_NEOSID.pretty" />
+  <project remote="github" name="KiCad/Choke_Toroid_ThroughHole.pretty"
+           path="Choke_Toroid_ThroughHole.pretty" />
+  <project remote="github" name="KiCad/Choke_SMD.pretty"
+           path="Choke_SMD.pretty" />
+  <project remote="github" name="KiCad/Choke_Radial_ThroughHole.pretty"
+           path="Choke_Radial_ThroughHole.pretty" />
+  <project remote="github" name="KiCad/Choke_Common-Mode_Wurth.pretty"
+           path="Choke_Common-Mode_Wurth.pretty" />
+  <project remote="github" name="KiCad/Choke_Axial_ThroughHole.pretty"
+           path="Choke_Axial_ThroughHole.pretty" />
+  <project remote="github" name="KiCad/Air_Coils_SML_NEOSID.pretty"
+           path="Air_Coils_SML_NEOSID.pretty" />
 </manifest>
